@@ -510,3 +510,293 @@ interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
 webdriverClickElement@chrome://marionette/content/interaction.js:179:31
 1612304621100	Marionette	INFO	Stopped listening on port 43397
 JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612368726349	geckodriver	INFO	Listening on 127.0.0.1:32919
+1612368727310	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegFB2P1"
+
+** (/usr/lib/firefox/firefox:8839): WARNING **: 13:12:18.618: Unable to connect to dbus: Could not connect: Permission denied
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+** (/usr/lib/firefox/firefox:8875): WARNING **: 13:12:19.020: Unable to connect to dbus: Could not connect: Permission denied
+1612368741910	Marionette	INFO	Listening on port 33315
+1612368742080	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612368742111	Marionette	ERROR	[18] No reply from Marionette:Register
+
+** (/usr/lib/firefox/firefox:8944): WARNING **: 13:12:23.126: Unable to connect to dbus: Could not connect: Permission denied
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.10.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1612368799931	Marionette	INFO	Stopped listening on port 33315
+1612368819161	geckodriver	INFO	Listening on 127.0.0.1:45423
+1612368820170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileazEayj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+** (/usr/lib/firefox/firefox:9394): WARNING **: 13:13:45.275: Unable to connect to dbus: Could not connect: Permission denied
+
+** (/usr/lib/firefox/firefox:9416): WARNING **: 13:13:45.493: Unable to connect to dbus: Could not connect: Permission denied
+1612368827495	Marionette	INFO	Listening on port 34319
+1612368827625	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612368827649	Marionette	ERROR	[18] No reply from Marionette:Register
+
+** (/usr/lib/firefox/firefox:9496): WARNING **: 13:13:48.884: Unable to connect to dbus: Could not connect: Permission denied
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.10.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612368867852	Marionette	INFO	Stopped listening on port 34319
+1612368910851	geckodriver	INFO	Listening on 127.0.0.1:33045
+1612368911863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7pCIZE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+** (/usr/lib/firefox/firefox:9993): WARNING **: 13:15:17.590: Unable to connect to dbus: Could not connect: Permission denied
+
+** (/usr/lib/firefox/firefox:10015): WARNING **: 13:15:17.798: Unable to connect to dbus: Could not connect: Permission denied
+1612368918968	Marionette	INFO	Listening on port 32835
+1612368919034	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612368919146	Marionette	ERROR	[15] No reply from Marionette:Register
+1612368919193	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+** (/usr/lib/firefox/firefox:10122): WARNING **: 13:15:21.601: Unable to connect to dbus: Could not connect: Permission denied
+1612368997833	geckodriver	INFO	Listening on 127.0.0.1:46201
+1612368998844	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileey7L2X"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+** (/usr/lib/firefox/firefox:10488): WARNING **: 13:16:45.143: Unable to connect to dbus: Could not connect: Permission denied
+
+** (/usr/lib/firefox/firefox:10509): WARNING **: 13:16:45.328: Unable to connect to dbus: Could not connect: Permission denied
+1612369006725	Marionette	INFO	Listening on port 39067
+1612369006839	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612369006866	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+** (/usr/lib/firefox/firefox:10609): WARNING **: 13:16:49.894: Unable to connect to dbus: Could not connect: Permission denied
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612369042275	Marionette	INFO	Stopped listening on port 32835
+1612369139131	geckodriver	INFO	Listening on 127.0.0.1:54089
+1612369139152	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9jf8lN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+** (/usr/lib/firefox/firefox:11055): WARNING **: 13:19:05.079: Unable to connect to dbus: Could not connect: Permission denied
+
+** (/usr/lib/firefox/firefox:11083): WARNING **: 13:19:05.311: Unable to connect to dbus: Could not connect: Permission denied
+1612369146645	Marionette	INFO	Listening on port 41557
+1612369146719	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612369146750	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+** (/usr/lib/firefox/firefox:11178): WARNING **: 13:19:09.285: Unable to connect to dbus: Could not connect: Permission denied
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612369193825	Marionette	INFO	Stopped listening on port 41557
+JavaScript warning: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021020101.js?31060016, line 6: Script terminated by timeout at:
+_.Rg@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021020101.js?31060016:6:51592
+_.Ji@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021020101.js?31060016:6:65613
+Ki@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021020101.js?31060016:6:65778
+ws@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021020101.js?31060016:6:149930
+Xs@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021020101.js?31060016:6:155499
+sv@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021020101.js?31060016:14:676
+ow.prototype.m@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021020101.js?31060016:14:16471
+nw@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021020101.js?31060016:14:15226
+vw.prototype.j@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021020101.js?31060016:14:19399
+b/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021020101.js?31060016:6:132357
+Fd@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021020101.js?31060016:6:20768
+Hd/this.next@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021020101.js?31060016:6:21060
+f@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021020101.js?31060016:6:34620
+
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612369248354	Marionette	INFO	Stopped listening on port 39067
+1612369654529	geckodriver	INFO	Listening on 127.0.0.1:33449
+1612369654539	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexgjpnc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+** (/usr/lib/firefox/firefox:16455): WARNING **: 13:27:41.538: Unable to connect to dbus: Could not connect: Permission denied
+
+** (/usr/lib/firefox/firefox:16483): WARNING **: 13:27:41.857: Unable to connect to dbus: Could not connect: Permission denied
+1612369663582	Marionette	INFO	Listening on port 34873
+1612369663725	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612369663756	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+** (/usr/lib/firefox/firefox:16570): WARNING **: 13:27:46.445: Unable to connect to dbus: Could not connect: Permission denied
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.10.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+1612369686982	Marionette	ERROR	[33] No reply from Marionette:Register
+
+** (/usr/lib/firefox/firefox:16636): WARNING **: 13:28:08.972: Unable to connect to dbus: Could not connect: Permission denied
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612369710432	Marionette	INFO	Stopped listening on port 34873
+1612369731172	geckodriver	INFO	Listening on 127.0.0.1:42943
+1612369732185	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileleFvzq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+** (/usr/lib/firefox/firefox:16972): WARNING **: 13:28:58.718: Unable to connect to dbus: Could not connect: Permission denied
+
+** (/usr/lib/firefox/firefox:16996): WARNING **: 13:28:58.920: Unable to connect to dbus: Could not connect: Permission denied
+1612369740515	Marionette	INFO	Listening on port 40749
+1612369740729	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612369740792	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+** (/usr/lib/firefox/firefox:17088): WARNING **: 13:29:03.556: Unable to connect to dbus: Could not connect: Permission denied
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.10.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+1612369765130	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612369768792	Marionette	INFO	Stopped listening on port 40749
+1612369785007	geckodriver	INFO	Listening on 127.0.0.1:33191
+1612369786020	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRMPuyo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+** (/usr/lib/firefox/firefox:17360): WARNING **: 13:29:52.179: Unable to connect to dbus: Could not connect: Permission denied
+
+** (/usr/lib/firefox/firefox:17382): WARNING **: 13:29:52.409: Unable to connect to dbus: Could not connect: Permission denied
+1612369793994	Marionette	INFO	Listening on port 44961
+1612369794091	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612369794120	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+** (/usr/lib/firefox/firefox:17474): WARNING **: 13:29:56.901: Unable to connect to dbus: Could not connect: Permission denied
+1612369860812	geckodriver	INFO	Listening on 127.0.0.1:38063
+1612369861825	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYDZ04K"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+** (/usr/lib/firefox/firefox:17812): WARNING **: 13:31:08.137: Unable to connect to dbus: Could not connect: Permission denied
+
+** (/usr/lib/firefox/firefox:17834): WARNING **: 13:31:08.496: Unable to connect to dbus: Could not connect: Permission denied
+1612369869942	Marionette	INFO	Listening on port 44859
+1612369870041	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612369870071	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+** (/usr/lib/firefox/firefox:17928): WARNING **: 13:31:13.200: Unable to connect to dbus: Could not connect: Permission denied
+JavaScript error: https://3d9eea70ed9f115047b77746ca1998bf.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 171: ReferenceError: init is not defined
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612369907101	Marionette	INFO	Stopped listening on port 44859
+1612370020724	geckodriver	INFO	Listening on 127.0.0.1:52903
+1612370021737	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3WfNdy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+** (/usr/lib/firefox/firefox:19638): WARNING **: 13:33:48.617: Unable to connect to dbus: Could not connect: Permission denied
+
+** (/usr/lib/firefox/firefox:19661): WARNING **: 13:33:48.872: Unable to connect to dbus: Could not connect: Permission denied
+1612370031092	Marionette	INFO	Listening on port 45833
+1612370031297	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612370031339	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+** (/usr/lib/firefox/firefox:19743): WARNING **: 13:33:52.854: Unable to connect to dbus: Could not connect: Permission denied
+1612370053627	geckodriver	INFO	Listening on 127.0.0.1:42695
+1612370054635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePLXKWk"
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612370058440	Marionette	INFO	Stopped listening on port 45833
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+** (/usr/lib/firefox/firefox:20015): WARNING **: 13:34:21.866: Unable to connect to dbus: Could not connect: Permission denied
+
+** (/usr/lib/firefox/firefox:20037): WARNING **: 13:34:22.255: Unable to connect to dbus: Could not connect: Permission denied
+1612370064537	Marionette	INFO	Listening on port 42443
+1612370064688	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612370064733	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+** (/usr/lib/firefox/firefox:20144): WARNING **: 13:34:26.215: Unable to connect to dbus: Could not connect: Permission denied
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612370095712	Marionette	INFO	Stopped listening on port 42443
+1612370100041	Marionette	INFO	Stopped listening on port 44961
+1612377937843	geckodriver	INFO	Listening on 127.0.0.1:59851
+1612377938851	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev0pjxc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+** (/usr/lib/firefox/firefox:28229): WARNING **: 15:45:44.093: Unable to connect to dbus: Could not connect: Permission denied
+
+** (/usr/lib/firefox/firefox:28251): WARNING **: 15:45:44.323: Unable to connect to dbus: Could not connect: Permission denied
+1612377945539	Marionette	INFO	Listening on port 38111
+1612377945617	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612377945644	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+** (/usr/lib/firefox/firefox:28332): WARNING **: 15:45:48.245: Unable to connect to dbus: Could not connect: Permission denied
+1612377964476	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612377966140	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612377967589	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612377969198	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612377970903	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612377972701	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612377973634	Marionette	INFO	Stopped listening on port 38111
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612378015815	geckodriver	INFO	Listening on 127.0.0.1:41023
+1612378016824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3wluyb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+** (/usr/lib/firefox/firefox:28699): WARNING **: 15:47:02.185: Unable to connect to dbus: Could not connect: Permission denied
+
+** (/usr/lib/firefox/firefox:28721): WARNING **: 15:47:02.405: Unable to connect to dbus: Could not connect: Permission denied
+1612378024104	Marionette	INFO	Listening on port 40971
+1612378024196	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612378024218	Marionette	ERROR	[18] No reply from Marionette:Register
+
+** (/usr/lib/firefox/firefox:28800): WARNING **: 15:47:05.618: Unable to connect to dbus: Could not connect: Permission denied
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1612378042110	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612378043627	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612378045116	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612378046927	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612378048600	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612378050230	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612378051070	Marionette	INFO	Stopped listening on port 40971
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
